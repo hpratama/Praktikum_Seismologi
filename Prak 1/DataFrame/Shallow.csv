@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-01-23T06:34:54.240Z,-7.1958,105.9181,43.91,6,mww,,75,3.274,1.16,us,us2000cmwz,2018-02-10T11:26:32.796Z,"40km S of Binuangeun, Indonesia",earthquake,8.1,6.7,0.071,19,reviewed,us,us
+2017-10-31T11:50:48.370Z,-3.7449,127.7517,6,6.1,mww,,22,4.503,1.15,us,us1000ayz8,2018-01-24T01:25:00.040Z,"41km WSW of Hila, Indonesia",earthquake,6.6,1.7,0.05,39,reviewed,us,us
+2017-08-31T17:06:55.750Z,-1.159,99.6881,43.14,6.3,mww,,20,2,1.13,us,us2000adjh,2017-11-28T18:33:55.040Z,"71km NE of Muara Siberut, Indonesia",earthquake,6.5,3.3,0.056,31,reviewed,us,us
+2017-08-13T03:08:10.560Z,-3.7682,101.6228,31,6.4,mww,,26,1.453,0.9,us,us2000a7q2,2017-11-14T01:42:04.040Z,"71km W of Bengkulu, Indonesia",earthquake,5.8,1.7,0.057,30,reviewed,us,us
+2017-05-29T14:35:21.510Z,-1.2923,120.4313,12,6.6,mww,,18,2.353,0.9,us,us10008w1z,2017-08-15T02:26:45.040Z,"28km WNW of Kasiguncu, Indonesia",earthquake,5.6,1.7,0.045,47,reviewed,us,us
+2017-04-28T20:23:17.260Z,5.5043,125.0658,26,6.9,mww,,14,1.636,0.99,us,us10008ls4,2017-08-05T00:39:03.876Z,"31km SW of Burias, Philippines",earthquake,6.6,1.8,0.044,49,reviewed,us,us
+2016-12-06T22:03:33.390Z,5.2834,96.1678,13,6.5,mww,,27,0.778,1.13,us,us10007ghm,2017-03-03T07:06:05.040Z,"14km WNW of Reuleuet, Indonesia",earthquake,5.6,0.2,,,reviewed,us,us
+2016-09-17T01:20:17.940Z,-2.0829,140.5718,9,6,mww,,12,6.79,0.94,us,us10006qas,2016-12-12T23:01:26.040Z,"51km NNW of Jayapura, Indonesia",earthquake,7.3,1.7,,,reviewed,us,us
+2016-06-09T04:13:08.130Z,-11.2487,116.2669,19,6.1,mww,,27,3.459,0.76,us,us200062zs,2016-11-10T22:16:21.322Z,"260km S of Kute, Indonesia",earthquake,6.6,1.7,,,reviewed,us,us
+2016-06-07T19:15:15.330Z,1.2789,126.3712,31,6.3,mww,,10,1.115,1.1,us,us200062l9,2016-11-10T22:16:19.131Z,"123km WNW of Kota Ternate, Indonesia",earthquake,5.3,1.8,,,reviewed,us,us
+2016-06-01T22:56:00.800Z,-2.0967,100.6654,50,6.6,mww,,16,2.435,0.87,us,us20005zt1,2017-10-11T21:29:24.257Z,"79km W of Sungaipenuh, Indonesia",earthquake,3.5,1.8,,,reviewed,us,us
+2016-04-06T14:45:29.620Z,-8.2036,107.3857,29,6.1,mww,,31,1.39,1.44,us,us20005fv5,2016-11-10T22:15:02.165Z,"71km SSW of Bunisari, Indonesia",earthquake,5.3,1.7,,,reviewed,us,us
+2016-03-02T12:49:48.110Z,-4.9521,94.3299,24,7.8,mww,,20,7.009,1.14,us,us10004u1y,2017-02-07T23:49:13.268Z,"Southwest of Sumatra, Indonesia",earthquake,7.5,1.8,,,reviewed,us,us
+2016-02-17T17:26:02.210Z,0.8597,129.0605,9,6,mww,,22,1.695,1,us,us200050wc,2016-11-10T22:12:48.774Z,"151km SE of Tobelo, Indonesia",earthquake,6,1.7,,,reviewed,us,us
+2016-02-12T10:02:24.050Z,-9.6338,119.4013,28,6.3,mww,,39,2.971,1.14,us,us20004zp9,2017-10-11T21:22:19.137Z,"0km W of Komerda, Indonesia",earthquake,6.4,1.7,,,reviewed,us,us

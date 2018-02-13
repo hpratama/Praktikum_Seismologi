@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-12-15T16:47:58.230Z,-7.4921,108.1743,90,6.5,mww,,28,2.365,1.07,us,us2000c4v8,2018-02-02T14:53:34.714Z,"1km E of Kampungbaru, Indonesia",earthquake,8,1.8,0.058,29,reviewed,us,us
+2016-12-29T22:30:19.300Z,-9.0279,118.6639,79,6.3,mww,,26,3.553,1.42,us,us10007nl0,2017-03-23T22:52:09.040Z,"29km S of Tolotangga, Indonesia",earthquake,6.2,1.8,,,reviewed,us,us
+2016-12-21T00:17:14.990Z,-7.5082,127.9206,152,6.7,mww,,17,3.38,1.2,us,us10007lkw,2017-03-16T02:31:31.040Z,"283km ENE of Dili, East Timor",earthquake,5.3,1.8,,,reviewed,us,us
